@@ -1,6 +1,6 @@
 ---
-name: issue_template
-about: Describe this issue template's purpose here.
+name: 이슈 템플릿
+about: 새로운 이슈를 생성
 title: ''
 labels: ''
 assignees: ''

@@ -1,20 +1,11 @@
 ---
-name: '이슈템플릿 '
+name: issue_template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
----
-name: "📌 General Issue"
-about: "공통 이슈 템플릿"
-title: "[ISSUE] "
-labels: []
-assignees: ""
----
-
 
 ## 📝 이슈 요약 (Summary)
 
